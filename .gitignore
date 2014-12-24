@@ -1,2 +1,2 @@
 *.class
-*.rubbish_things.java
+src/com/primefaces/sample/rubbish_things.java
