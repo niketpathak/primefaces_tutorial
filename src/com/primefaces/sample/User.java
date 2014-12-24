@@ -2,6 +2,7 @@ package com.primefaces.sample;
 import java.util.Date;
 //@author : Niket Pathak
 //@DOC : 17th June 2014
+//This is the User Class!
 public class User
 {
     private Integer userId;
