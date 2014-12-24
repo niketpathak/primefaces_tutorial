@@ -1,2 +1,2 @@
 *.class
-/rubbish_things.java
+*.rubbish_things.java
